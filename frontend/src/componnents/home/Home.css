@@ -1,0 +1,10 @@
+
+.btn-purple {
+    background: linear-gradient(to right, #7b2ff7, #f107a3);
+    color: white;
+    border: none;
+  }
+  
+  .btn-purple:hover {
+    background: linear-gradient(to right, #631dcf, #c50689);
+  }

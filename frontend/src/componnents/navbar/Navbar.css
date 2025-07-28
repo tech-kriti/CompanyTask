@@ -1,0 +1,13 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  input[type="text"]::placeholder {
+    font-style: italic;
+  }
+
+  .and{
+     color: blueviolet;
+  }
